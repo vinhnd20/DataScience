@@ -1,0 +1,10 @@
+flask
+mysql-connector-python 
+numpy
+pandas
+keras
+matplotlib
+tensorflow
+librosa
+path.py
+pillow
